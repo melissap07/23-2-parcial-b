@@ -1,4 +1,4 @@
-package co.edu.unisabana.parcialarquitectura.repository.jpa;
+package co.edu.unisabana.parcialarquitectura.service.jpa;
 
 import co.edu.unisabana.parcialarquitectura.repository.entity.CheckpointEntity;
 import java.util.Optional;
